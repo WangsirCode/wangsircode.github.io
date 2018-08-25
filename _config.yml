@@ -6,7 +6,7 @@
 # Site
 title: 汪sir的技术博客 
 subtitle:
-description:
+description: code the world
 author: wangsir 
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans 
@@ -233,8 +233,8 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
-#avatar:
+
+avatar: /assets/images/IMG_1558.JPG
 
 
 # Table Of Contents in the Sidebar
